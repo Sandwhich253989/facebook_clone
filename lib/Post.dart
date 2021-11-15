@@ -18,12 +18,5 @@ class Post extends StatelessWidget {
                   : Facebook_post()
       ),
     );
-    // return Container(
-    //   child:Column(
-    //     children: [
-    //       Flexible(child: Insta_post()),
-    //     ],
-    //   ),
-    // );
   }
 }
